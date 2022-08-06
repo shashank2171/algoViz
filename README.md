@@ -1,2 +1,0 @@
-# algoViz
-A sorting visualizer.
